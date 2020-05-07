@@ -1,0 +1,4 @@
+github.com/jstemmer/go-junit-report v0.9.1 h1:6QPYqodiu3GuPL+7mfx+NwDdp2eTkp9IfEUpgAwUN0o=
+github.com/jstemmer/go-junit-report v0.9.1/go.mod h1:Brl9GWCQeLvo8nXZwPNNblvFj/XSXhF0NWZEnDohbsk=
+github.com/jtaczanowski/go-graphite-client v1.0.0 h1:I0749tsXWyPYhFKGWhNnRvrwCWF6cyFFyCxdMRnNp9I=
+github.com/jtaczanowski/go-graphite-client v1.0.0/go.mod h1:K/Glts7ZyF9FYZ22s5wZJ4gCH5K7zif7+rGqLmdbSV8=
