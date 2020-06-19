@@ -9,7 +9,7 @@ import (
 )
 
 var (
-	junitFilename = flag.String("f", "", "specify junit report file name")
+	junitFilename = flag.String("f", "", "specify junit report filename")
 	host          = flag.String("h", "", "specify graphite host address")
 	port          = flag.Int("p", 0, "specify graphite port")
 	prefix        = flag.String("x", "", "specify prefix for all metrics")
